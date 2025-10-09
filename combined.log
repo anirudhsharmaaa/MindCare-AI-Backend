@@ -7,3 +7,6 @@
 {"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-09T11:27:08.024Z"}
 {"level":"info","message":"Server is running on port 3002","timestamp":"2025-10-09T11:27:08.034Z"}
 {"level":"info","message":"Inngest endpoint available at http://localhost:3002/api/inngest","timestamp":"2025-10-09T11:27:08.036Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-09T11:38:07.882Z"}
+{"level":"info","message":"Server is running on port 3002","timestamp":"2025-10-09T11:38:07.889Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3002/api/inngest","timestamp":"2025-10-09T11:38:07.890Z"}
