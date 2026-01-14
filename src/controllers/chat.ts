@@ -10,7 +10,7 @@ import { Types } from "mongoose";
 
 // Initialize Gemini API
 const genAI = new GoogleGenerativeAI(
-  process.env.GEMINI_API_KEY || "AIzaSyAEY8DHDUkMFaxu-RltdvQRBpNBz7IfQAQ"
+  process.env.GEMINI_API_KEY || "AIzaSyA3mkLRrKCPKRKhG-m8O4f_ft9vaIbeI3E"
 );
 
 // Create a new chat session
